@@ -30,10 +30,5 @@ pip install -r requirements.txt
 
 6. 
 ```
-export FLASK_APP=market.py
-```
-
-7. 
-```
-flask run
+python run.py
 ```
